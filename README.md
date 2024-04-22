@@ -1,6 +1,6 @@
-```
 
-# Movie Management API
+
+## Movie Management API
 
 This is a simple RESTful API built with Go (Golang) using the Gorilla Mux router. It provides endpoints to manage movies, including retrieving all movies, retrieving a single movie by ID, creating a new movie, updating an existing movie, and deleting a movie.
 
